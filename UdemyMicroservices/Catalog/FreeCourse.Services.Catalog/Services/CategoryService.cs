@@ -53,4 +53,4 @@ namespace FreeCourse.Services.Catalog.Services
         }
     }
 }
-}
+
