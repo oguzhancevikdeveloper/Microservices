@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "21UAKAQFsxct+VdQB2nKtxVPDcD7XLRGCjsZ+jS6S6Y3htnvpE3ejzRaY5B1tyD6v7Z5XZMnqZUwuML/qLO9+A==",
+  "dgSpecHash": "HahiMc+bdXEkc0Yjdj5rdPMcTsr0X2oTOTFuQZHh2pVYOJ6w1tmstsTGmPpp6jLFQMIvvT4K9rPblKuOOgOTdg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Oguzz\\Desktop\\Evraklar\\Projeler\\UdemyMicroservices\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj",
+  "projectFilePath": "C:\\Users\\Oguzhan_\\Desktop\\Evraklar\\Microservices\\UdemyMicroservices\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
