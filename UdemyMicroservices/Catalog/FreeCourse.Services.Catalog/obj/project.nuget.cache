@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "jgzxi3u+sJxg8GIbP0N6PCh+tcwGsPkaAWHw+2SfxLrN1WjBxypBfmME9a0+PbYzTd5MsLVz78Vi0E62IU0cEQ==",
+  "dgSpecHash": "T6PN2GJX6XamOZDDARXXrLQQYE/C9i1WDaIpFJP+3KgIauY9RVW3tv1ER0ve6IiSkHQgBMAqN8rGtDMVUTcxog==",
   "success": true,
   "projectFilePath": "C:\\Users\\Oguzhan_\\Desktop\\Evraklar\\Microservices\\UdemyMicroservices\\Catalog\\FreeCourse.Services.Catalog\\FreeCourse.Services.Catalog.csproj",
   "expectedPackageFiles": [
@@ -32,11 +32,7 @@
     "C:\\Users\\Oguzhan_\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\Oguzhan_\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
     "C:\\Users\\Oguzhan_\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
-    "C:\\Users\\Oguzhan_\\.nuget\\packages\\zstdsharp.port\\0.6.2\\zstdsharp.port.0.6.2.nupkg.sha512",
-    "C:\\Users\\Oguzhan_\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\Oguzhan_\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\Oguzhan_\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\Oguzhan_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+    "C:\\Users\\Oguzhan_\\.nuget\\packages\\zstdsharp.port\\0.6.2\\zstdsharp.port.0.6.2.nupkg.sha512"
   ],
   "logs": []
 }
