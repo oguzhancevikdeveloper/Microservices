@@ -1,0 +1,7 @@
+C:\Users\Oguzhan_\Desktop\Evraklar\Microservices\UdemyMicroservices\Catalog\FreeCourse.Services.Catalog\obj\Debug\net5.0\FreeCourse.Services.Catalog.csproj.AssemblyReference.cache
+C:\Users\Oguzhan_\Desktop\Evraklar\Microservices\UdemyMicroservices\Catalog\FreeCourse.Services.Catalog\obj\Debug\net5.0\FreeCourse.Services.Catalog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oguzhan_\Desktop\Evraklar\Microservices\UdemyMicroservices\Catalog\FreeCourse.Services.Catalog\obj\Debug\net5.0\FreeCourse.Services.Catalog.AssemblyInfoInputs.cache
+C:\Users\Oguzhan_\Desktop\Evraklar\Microservices\UdemyMicroservices\Catalog\FreeCourse.Services.Catalog\obj\Debug\net5.0\FreeCourse.Services.Catalog.AssemblyInfo.cs
+C:\Users\Oguzhan_\Desktop\Evraklar\Microservices\UdemyMicroservices\Catalog\FreeCourse.Services.Catalog\obj\Debug\net5.0\FreeCourse.Services.Catalog.csproj.CoreCompileInputs.cache
+C:\Users\Oguzhan_\Desktop\Evraklar\Microservices\UdemyMicroservices\Catalog\FreeCourse.Services.Catalog\obj\Debug\net5.0\FreeCourse.Services.Catalog.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Oguzhan_\Desktop\Evraklar\Microservices\UdemyMicroservices\Catalog\FreeCourse.Services.Catalog\obj\Debug\net5.0\FreeCourse.Services.Catalog.MvcApplicationPartsAssemblyInfo.cache
