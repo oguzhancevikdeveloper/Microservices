@@ -40,7 +40,7 @@ namespace FreeCourse.Services.Catalog
             });
 
             services.AddScoped<ICategoryService, CategoryService>();
-            services.AddScoped<ICourseService, CourseService>();
+            //services.AddScoped<ICourseService, CourseService>();
 
             services.AddSwaggerGen(c =>
             {
